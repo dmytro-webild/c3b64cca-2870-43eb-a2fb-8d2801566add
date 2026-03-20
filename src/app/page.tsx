@@ -51,7 +51,7 @@ export default function LandingPage() {
           ]}
           buttonAnimation="blur-reveal"
           layoutOrder="default"
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BCJYjSQsG75IXEduUXSTVLAoKZ/ultra-premium-nike-running-shoes-in-dyna-1773987252297-78b78441.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BCJYjSQsG75IXEduUXSTVLAoKZ/ultra-premium-nike-running-shoes-in-dyna-1773987252297-78b78441.png?_wi=1"
           imageAlt="Nike premium running shoes in cinematic pose"
           mediaAnimation="slide-up"
           frameStyle="card"
@@ -68,7 +68,7 @@ export default function LandingPage() {
           description="Since 1972, Nike has been pushing the boundaries of athletic innovation. We believe in the power of sport to transform lives and the importance of creating products that inspire greatness in every athlete."
           subdescription="Our commitment to excellence drives us to research, develop, and test every shoe design with elite athletes and everyday users alike."
           icon={Zap}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BCJYjSQsG75IXEduUXSTVLAoKZ/ultra-premium-nike-running-shoes-in-dyna-1773987252297-78b78441.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BCJYjSQsG75IXEduUXSTVLAoKZ/ultra-premium-nike-running-shoes-in-dyna-1773987252297-78b78441.png?_wi=2"
           imageAlt="Nike shoe innovation and design philosophy"
           mediaAnimation="opacity"
           useInvertedBackground={false}
